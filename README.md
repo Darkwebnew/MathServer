@@ -143,9 +143,7 @@ urlpatterns = [
 ```
 ## SERVER SIDE PROCESSING:
 ![code and calculation](https://github.com/Darkwebnew/MathServer/assets/143114486/66aa7392-cb30-4204-9258-168eec7a98e0)
-![output](https://github.com/Darkwebnew/MathServer/assets/143114486/f86c84ae-f4ce-4c74-9bbe-a78fcbe77d9b)
 ## HOMEPAGE:
-
-
+![output](https://github.com/Darkwebnew/MathServer/assets/143114486/f86c84ae-f4ce-4c74-9bbe-a78fcbe77d9b)
 ## RESULT:
 The program for performing server side processing is completed successfully.
