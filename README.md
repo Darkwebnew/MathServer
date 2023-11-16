@@ -1,4 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
+# EX 05 Design a Website for Server Side Processing
 ## Date:14/11/2003
 
 ## AIM:
